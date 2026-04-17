@@ -93,6 +93,33 @@ safety and reduces manual labor.
 
 ---
 
+## 🔒 Security & Monitoring
+
+### Solar-Powered Surveillance Camera
+
+The farm is equipped with an outdoor security camera powered entirely
+by solar energy, ensuring 24/7 monitoring with zero energy cost.
+
+**Features:**
+- ☀️ Built-in solar panel — fully off-grid operation
+- 📷 Outdoor weatherproof design
+- 💡 Infrared LEDs for night vision
+- 🔄 Rotating head for wide area coverage
+- 📡 Wireless connectivity for remote monitoring
+
+**Integration Plan:**
+- Live feed accessible via the central farm dashboard
+- Motion detection alerts sent to farmer's mobile app
+- Covers poultry area, orchard entrance, and irrigation zones
+
+> 📸 *Solar-powered security camera installed on-site*
+
+
+
+![Security Camera](assets/images/security-camera.jpg)
+
+---
+
 ## 🔮 Vision
 To become a leading smart farming solution that empowers farmers worldwide through affordable and accessible technology.
 
