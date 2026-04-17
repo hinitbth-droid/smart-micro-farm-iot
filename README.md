@@ -62,7 +62,34 @@ The system helps farmers make better decisions and optimize their resources.
 - Internet of Things (IoT)  
 - Sensors (Soil moisture, temperature, humidity)  
 - Mobile application (Android)  
-- Cloud data processing  
+- Cloud data processing
+- 
+---
+
+## 🐔 Poultry Management
+
+### Smart Coop Door — Automated Access Control
+
+The farm includes an automated poultry coop door system that improves flock
+safety and reduces manual labor.
+
+**Device:** Okkobi Automatic Coop Door  
+**Features:**
+- ⏰ Scheduled open/close based on time or light sensor
+- 🔧 Manual override via control panel
+- 📟 Built-in LCD display for status monitoring
+- 🔒 Protects flock from predators at night automatically
+
+**Integration Plan:**
+- Connect door status (open/closed) to the central IoT dashboard
+- Trigger alerts if door fails to open/close at scheduled time
+- Log daily open/close events for flock activity tracking
+
+> 📸 *Okkobi smart coop door installed and operational on-site*
+
+
+
+![Smart Coop Door](assets/images/smart-coop-door.jpg)
 
 ---
 
