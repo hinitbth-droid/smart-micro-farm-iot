@@ -1,10 +1,13 @@
+# 🌿 GreenLoop-Farm-iot
 # smart-micro-farm-iot
-Smart farming solution using IoT and mobile technology to improve productivity for small farmers
+An integrated smart micro-farm solution combining circular agriculture with IoT-driven automation and a scalable digital SaaS platform.
 
 # 🌱 Smart Micro Farm IoT
 
 ## 🚀 Overview
-Smart Micro Farm IoT is an AgriTech startup project designed to help small farmers improve productivity, reduce costs, and adopt modern farming practices using Internet of Things (IoT) and mobile technology.
+GreenLoop Farm is an AgriTech startup designed to empower smallholder farmers through real-time monitoring, resource optimization, and data-driven decision-making.
+
+Built on circular economy principles, GreenLoop Farm ensures that every output becomes an input, maximizing productivity while eliminating waste.[
 
 This solution focuses on making smart farming accessible, affordable, and efficient for small-scale agriculture, especially in developing regions.
 
@@ -20,7 +23,7 @@ Small farmers face many challenges:
 ---
 
 ## 💡 Solution
-Smart Micro Farm provides an intelligent farming system that combines:
+GreenLoop-Farm provides an intelligent farming system that combines:
 
 - 📡 IoT sensors to monitor:
   - Soil moisture
