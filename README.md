@@ -46,7 +46,7 @@ The system helps farmers make better decisions and optimize their resources.
 ## 🌍 Target Market
 - Small and medium farmers  
 - Rural agricultural communities  
-- Emerging markets (Africa, Middle East, Eastern Europe)
+- Emerging markets (Europe, Scandinavian countries, Africa, Middle East, )
 
 ---
 
